@@ -1,12 +1,14 @@
-import CarouselAnuncios from "../componentes/CarouselAnuncios";
-import { NavBar } from "../componentes/NavBar";
+import { Container } from "react-bootstrap";
+import {CompNavBar} from  "./../componentes/NavBar"
+import CarouselAnuncios from  "./../componentes/CarouselAnuncios"
 
 
 
 function Home() {
     return (        
-        <Container>            
-            <NavBar />
+        <Container>  
+            home          
+            <CompNavBar />
             <CarouselAnuncios />
         </Container>
 
