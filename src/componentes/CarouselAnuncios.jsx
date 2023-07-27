@@ -6,7 +6,7 @@ function CarouselAnuncios() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://via.placeholder.com/800x200.png?text=Anuncio+1"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCc9yLJ-WHxzzJK81Gpuv3b6dBXjC9DCDaAQ&usqp=CAU" //Anuncio 1
           alt="First slide"
         />
         <Carousel.Caption>
@@ -17,7 +17,7 @@ function CarouselAnuncios() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://via.placeholder.com/800x200.png?text=Anuncio+2"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwMeueBd_KsUIuZsbNfqVkJdoNfr6vn2t56g&usqp=CAU" // Anuncio 2
           alt="Second slide"
         />
 
@@ -29,7 +29,7 @@ function CarouselAnuncios() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://via.placeholder.com/800x200.png?text=Anuncio+3"
+          src="https://admin.ultimatodobacon.com/wp-content/uploads/2020/08/10-Super-Her%C3%B3is-Negros-que-voc%C3%AA-PRECISA-conhecer-Spawn.jpg" // Anuncio 3
           alt="Third slide"
         />
 
